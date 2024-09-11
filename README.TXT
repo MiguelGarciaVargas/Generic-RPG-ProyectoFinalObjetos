@@ -1,12 +1,17 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Generic RPG Game
+Purpose of Project: This project was developed for the Object-Oriented Technologies class as a practical exercise in object-oriented programming. It’s a simple bit-based RPG game where players can interact in a classic RPG environment.
 
-PROJECT TITLE: Generic RPG Game
-PURPOSE OF PROJECT: Clase de Tecnologias Orientadas A Objetos
-VERSION or DATE:
-HOW TO START THIS PROJECT: StartMenuScreen
-AUTHORS: Mike y Pardo
-USER INSTRUCTIONS:
+How to Start:
+To start the game, run the main file that opens the start screen: StartMenuScreen. From there, you can access the different game features.
+
+Features:
+Classic RPG with simple bit-based graphics.
+Basic interactions with NPCs and turn-based combat.
+Implementation of object-oriented design patterns.
+Authors:
+Mike 
+Pardo
+User Instructions:
+Open the StartMenuScreen file to start the game.
+Follow the on-screen instructions to navigate the menu and start a new game.
+Use the arrow keys to move and press Enter to interact with the environment.
